@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">尋找機車</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="findScooter">尋找機車</string>
+    <string name="recordScooter">紀錄機車位子</string>
+    <string name="teach">操作手冊：當停好機車按下紀錄機車位子即可馬上記錄當下位子，如需尋找再按下尋找機車。(注意：只能在路邊停車使用，無法在停車場內尋找。)</string>
+</resources>
